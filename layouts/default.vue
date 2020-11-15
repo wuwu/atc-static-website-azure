@@ -1,7 +1,7 @@
 <template>
-  <div>
-    <Nuxt />
-  </div>
+<div class="atc">
+  <Nuxt />
+</div>
 </template>
 
 <style>
